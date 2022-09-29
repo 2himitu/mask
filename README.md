@@ -7,6 +7,7 @@
 <img src="https://img.shields.io/badge/-oracle-blue">
 <img src="https://img.shields.io/badge/-my batis-critical">
 <img src="https://img.shields.io/badge/-jsp-important">
+<img src="https://img.shields.io/badge/-maven-important">
 </div>
 
 # Teachable Machine를 활용해 마스크착용 여부를 인식 사이트
